@@ -523,6 +523,77 @@ Intelligence, analysis and tool-enabled interaction.
 
 <div align="center">
 
+# 📊 GitHub Analytics
+
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=16&duration=2700&pause=1000&color=B17CC6&center=true&vCenter=true&width=650&lines=Consistency+over+intensity.;Small+commits%2C+steady+progress.;Every+contribution+feeds+the+snake+%F0%9F%90%8D" alt="Analytics tagline"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tai285/tai285/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tai285/tai285/output/github-contribution-grid-snake.svg" />
+  <img alt="Dorothy's contribution snake" src="https://raw.githubusercontent.com/tai285/tai285/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tai285&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&title_color=E5A6C8&icon_color=9EDDE3&text_color=D9C6EC&bg_color=1A1625" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tai285&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&title_color=8F6BA8&icon_color=D69BC1&text_color=6D4C7D&bg_color=FDF9FF" />
+  <img alt="Dorothy's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tai285&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&title_color=8F6BA8&icon_color=D69BC1&text_color=6D4C7D&bg_color=FDF9FF" height="185"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=tai285&hide_border=true&background=1A1625&ring=9EDDE3&fire=E5A6C8&currStreakLabel=E5A6C8&sideLabels=D9C6EC&sideNums=D9C6EC&dates=B98DD4&stroke=8F6BA8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=tai285&hide_border=true&background=FDF9FF&ring=D69BC1&fire=E5A6C8&currStreakLabel=8F6BA8&sideLabels=6D4C7D&sideNums=6D4C7D&dates=9B78AE&stroke=D9C6EC" />
+  <img alt="Dorothy's GitHub streak" src="https://streak-stats.demolab.com/?user=tai285&hide_border=true&background=FDF9FF&ring=D69BC1&fire=E5A6C8&currStreakLabel=8F6BA8&sideLabels=6D4C7D&sideNums=6D4C7D&dates=9B78AE&stroke=D9C6EC" height="185"/>
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tai285&layout=compact&hide_border=true&cache_seconds=86400&langs_count=8&title_color=E5A6C8&icon_color=9EDDE3&text_color=D9C6EC&bg_color=1A1625" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tai285&layout=compact&hide_border=true&cache_seconds=86400&langs_count=8&title_color=8F6BA8&icon_color=D69BC1&text_color=6D4C7D&bg_color=FDF9FF" />
+  <img alt="Dorothy's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tai285&layout=compact&hide_border=true&cache_seconds=86400&langs_count=8&title_color=8F6BA8&icon_color=D69BC1&text_color=6D4C7D&bg_color=FDF9FF" height="185"/>
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=tai285&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=tai285&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
+  <img alt="Dorothy's GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=tai285&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" width="100%"/>
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=tai285&label=Profile%20Views&color=B98DD4&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
+---
+
+<div align="center">
+
 # ✨ What I Like Building
 
 </div>
