@@ -15,13 +15,17 @@
 
 <br><br>
 
+<a href="https://github.com/tai285?tab=followers"><img src="https://img.shields.io/github/followers/tai285?label=Follow&style=for-the-badge&color=9EDDE3&labelColor=397F89"/></a>
+
+<br><br>
+
 ✦　✧　✿　✦　❀　✧　✦
 
 </div>
 
 <br>
 
-<table>
+<table align="center">
 <tr>
 <td width="62%" valign="top">
 
@@ -65,7 +69,7 @@ That progression is what I enjoy most:
 
 <br>
 
-<table>
+<table align="center">
 <tr>
 
 <td width="33.33%" valign="top" align="center">
@@ -167,7 +171,7 @@ The research extension introduced **AI, LLM implementation, and AI tool calling*
 
 <br>
 
-<table>
+<table align="center">
 <tr>
 
 <td width="33%" align="center" valign="top">
@@ -275,7 +279,7 @@ The project was then extended beyond its original IoT scope.
 
 <br>
 
-<table>
+<table align="center">
 <tr>
 
 <td width="25%" align="center" valign="top">
@@ -353,7 +357,7 @@ Decision support
 
 <br>
 
-<table>
+<table align="center">
 <tr>
 
 <td width="20%" align="center">
@@ -443,7 +447,7 @@ Intelligence, analysis and tool-enabled interaction.
 
 <br>
 
-<table>
+<table align="center">
 <tr>
 
 <td width="50%" align="center" valign="top">
@@ -546,38 +550,21 @@ Intelligence, analysis and tool-enabled interaction.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tai285&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&title_color=E5A6C8&icon_color=9EDDE3&text_color=D9C6EC&bg_color=1A1625" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tai285&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&title_color=8F6BA8&icon_color=D69BC1&text_color=6D4C7D&bg_color=FDF9FF" />
-  <img alt="Dorothy's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tai285&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&title_color=8F6BA8&icon_color=D69BC1&text_color=6D4C7D&bg_color=FDF9FF" height="185"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tai285/tai285/output/metrics.dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tai285/tai285/output/metrics.light.svg" />
+  <img alt="Dorothy's GitHub metrics — stats, languages and contribution calendar" src="https://raw.githubusercontent.com/tai285/tai285/output/metrics.light.svg" width="100%"/>
 </picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=tai285&hide_border=true&background=1A1625&ring=9EDDE3&fire=E5A6C8&currStreakLabel=E5A6C8&sideLabels=D9C6EC&sideNums=D9C6EC&dates=B98DD4&stroke=8F6BA8" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=tai285&hide_border=true&background=FDF9FF&ring=D69BC1&fire=E5A6C8&currStreakLabel=8F6BA8&sideLabels=6D4C7D&sideNums=6D4C7D&dates=9B78AE&stroke=D9C6EC" />
   <img alt="Dorothy's GitHub streak" src="https://streak-stats.demolab.com/?user=tai285&hide_border=true&background=FDF9FF&ring=D69BC1&fire=E5A6C8&currStreakLabel=8F6BA8&sideLabels=6D4C7D&sideNums=6D4C7D&dates=9B78AE&stroke=D9C6EC" height="185"/>
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tai285&layout=compact&hide_border=true&cache_seconds=86400&langs_count=8&title_color=E5A6C8&icon_color=9EDDE3&text_color=D9C6EC&bg_color=1A1625" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tai285&layout=compact&hide_border=true&cache_seconds=86400&langs_count=8&title_color=8F6BA8&icon_color=D69BC1&text_color=6D4C7D&bg_color=FDF9FF" />
-  <img alt="Dorothy's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tai285&layout=compact&hide_border=true&cache_seconds=86400&langs_count=8&title_color=8F6BA8&icon_color=D69BC1&text_color=6D4C7D&bg_color=FDF9FF" height="185"/>
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=tai285&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=tai285&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
-  <img alt="Dorothy's GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=tai285&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" width="100%"/>
 </picture>
 
 </div>
@@ -598,7 +585,7 @@ Intelligence, analysis and tool-enabled interaction.
 
 </div>
 
-<table>
+<table align="center">
 <tr>
 
 <td width="33%" align="center" valign="top">
@@ -706,7 +693,7 @@ but to **extend it with AI, LLMs and tool-enabled intelligence**.
 
 <br>
 
-<table>
+<table align="center">
 <tr>
 
 <td width="20%" align="center">
