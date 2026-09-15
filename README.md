@@ -549,6 +549,18 @@ Intelligence, analysis and tool-enabled interaction.
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tai285/tai285/main/assets/metrics-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tai285/tai285/main/assets/metrics-light.svg" />
+  <img alt="Dorothy's GitHub metrics — stats, languages and contribution calendar" src="https://raw.githubusercontent.com/tai285/tai285/main/assets/metrics-light.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://img.shields.io/github/followers/tai285?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=9EDDE3&labelColor=397F89"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftai285&label=Repositories&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&color=C8A6E9&labelColor=6D4C7D"/>
 <img src="https://img.shields.io/badge/On%20GitHub%20since-2022-F0B6D2?style=for-the-badge&labelColor=8D5574"/>
