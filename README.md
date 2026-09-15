@@ -284,7 +284,7 @@ The project was then extended beyond its original IoT scope.
 
 <td width="25%" align="center" valign="top">
 
-<img src="https://img.icons8.com/fluency/96/rfid-sensor.png" width="58"/>
+<img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Satellite%20antenna/3D/satellite_antenna_3d.png" width="58"/>
 
 ### ◌ Sense
 
@@ -299,7 +299,7 @@ Physical inventory events
 
 <td width="25%" align="center" valign="top">
 
-<img src="https://img.icons8.com/fluency/96/database.png" width="58"/>
+<img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Desktop%20computer/3D/desktop_computer_3d.png" width="58"/>
 
 ### ◌ Process
 
@@ -314,7 +314,7 @@ TypeScript
 
 <td width="25%" align="center" valign="top">
 
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="58"/>
+<img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Brain/3D/brain_3d.png" width="58"/>
 
 ### ◌ Understand
 
@@ -329,7 +329,7 @@ Tool calling
 
 <td width="25%" align="center" valign="top">
 
-<img src="https://img.icons8.com/fluency/96/decision.png" width="58"/>
+<img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Robot/3D/robot_3d.png" width="58"/>
 
 ### ◌ Assist
 
@@ -362,7 +362,7 @@ Decision support
 
 <td width="20%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/rfid-sensor.png" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Satellite%20antenna/3D/satellite_antenna_3d.png" width="65"/>
 
 ### RFID
 
@@ -378,7 +378,7 @@ Physical identification and inventory sensing.
 
 <td width="20%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/microchip.png" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Electric%20plug/3D/electric_plug_3d.png" width="65"/>
 
 ### ESP32
 
@@ -394,7 +394,7 @@ Embedded IoT layer connecting the physical system.
 
 <td width="20%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/source-code.png" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Desktop%20computer/3D/desktop_computer_3d.png" width="65"/>
 
 ### Software
 
@@ -410,7 +410,7 @@ Python, Flask, JavaScript and TypeScript.
 
 <td width="25%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Brain/3D/brain_3d.png" width="65"/>
 
 ### AI + LLM
 
@@ -549,11 +549,9 @@ Intelligence, analysis and tool-enabled interaction.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tai285/tai285/output/metrics.dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tai285/tai285/output/metrics.light.svg" />
-  <img alt="Dorothy's GitHub metrics — stats, languages and contribution calendar" src="https://raw.githubusercontent.com/tai285/tai285/output/metrics.light.svg" width="100%"/>
-</picture>
+<img src="https://img.shields.io/github/followers/tai285?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=9EDDE3&labelColor=397F89"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftai285&label=Repositories&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&color=C8A6E9&labelColor=6D4C7D"/>
+<img src="https://img.shields.io/badge/On%20GitHub%20since-2022-F0B6D2?style=for-the-badge&labelColor=8D5574"/>
 
 </div>
 
