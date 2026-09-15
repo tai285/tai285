@@ -527,9 +527,9 @@ Intelligence, analysis and tool-enabled interaction.
 
 <div align="center">
 
-# 📊 GitHub Analytics
+# 🐍 Contribution Snake
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=16&duration=2700&pause=1000&color=B17CC6&center=true&vCenter=true&width=650&lines=Consistency+over+intensity.;Small+commits%2C+steady+progress.;Every+contribution+feeds+the+snake+%F0%9F%90%8D" alt="Analytics tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=16&duration=2700&pause=1000&color=B17CC6&center=true&vCenter=true&width=650&lines=Consistency+over+intensity.;Small+commits%2C+steady+progress." alt="Snake tagline"/>
 
 </div>
 
@@ -542,48 +542,6 @@ Intelligence, analysis and tool-enabled interaction.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tai285/tai285/output/github-contribution-grid-snake.svg" />
   <img alt="Dorothy's contribution snake" src="https://raw.githubusercontent.com/tai285/tai285/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tai285/tai285/main/assets/metrics-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tai285/tai285/main/assets/metrics-light.svg" />
-  <img alt="Dorothy's GitHub metrics — stats, languages and contribution calendar" src="https://raw.githubusercontent.com/tai285/tai285/main/assets/metrics-light.svg" width="100%"/>
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/tai285?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=9EDDE3&labelColor=397F89"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftai285&label=Repositories&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&color=C8A6E9&labelColor=6D4C7D"/>
-<img src="https://img.shields.io/badge/On%20GitHub%20since-2022-F0B6D2?style=for-the-badge&labelColor=8D5574"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=tai285&hide_border=true&background=1A1625&ring=9EDDE3&fire=E5A6C8&currStreakLabel=E5A6C8&sideLabels=D9C6EC&sideNums=D9C6EC&dates=B98DD4&stroke=8F6BA8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=tai285&hide_border=true&background=FDF9FF&ring=D69BC1&fire=E5A6C8&currStreakLabel=8F6BA8&sideLabels=6D4C7D&sideNums=6D4C7D&dates=9B78AE&stroke=D9C6EC" />
-  <img alt="Dorothy's GitHub streak" src="https://streak-stats.demolab.com/?user=tai285&hide_border=true&background=FDF9FF&ring=D69BC1&fire=E5A6C8&currStreakLabel=8F6BA8&sideLabels=6D4C7D&sideNums=6D4C7D&dates=9B78AE&stroke=D9C6EC" height="185"/>
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=tai285&label=Profile%20Views&color=B98DD4&style=for-the-badge" alt="Profile views"/>
 
 </div>
 

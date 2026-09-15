@@ -33,27 +33,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # lowlighter/metrics commits its own SVG output straight to this
-      # repo via the GitHub API (no checkout/push step needed), so these
-      # run after the output-branch publish and write into assets/ on main.
-      - name: Generate metrics card (light)
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          user: tai285
-          template: classic
-          filename: assets/metrics-light.svg
-          config_timezone: Asia/Kuala_Lumpur
-          base: "header, activity, -community, -repositories"
-
-      - name: Generate metrics card (dark)
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          user: tai285
-          template: classic
-          theme: dark
-          filename: assets/metrics-dark.svg
-          config_timezone: Asia/Kuala_Lumpur
-          base: "header, activity, -community, -repositories"
